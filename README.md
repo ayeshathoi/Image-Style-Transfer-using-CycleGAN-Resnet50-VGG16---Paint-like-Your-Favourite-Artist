@@ -1,7 +1,7 @@
 # Image-Style-Transfer-using-CycleGAN-Resnet50-VGG16---Paint-like-Your-Favourite-Artist 
 Here, you can change your any image into a painting drawn by your favourite artist! You can be an artist all by yourself!
 Using VGG16 and Resnet-50, you can transfer image style into your image. 
-![Result Image](https://github.com/ayeshathoi/Image-Style-Transfer-using-CycleGAN-Resnet50-VGG16---Paint-like-Your-Favourite-Artist/blob/main/Resources/combined.jpg)
+![Result Image](https://github.com/ayeshathoi/Image-Style-Transfer-using-CycleGAN-Resnet50-VGG16---Paint-like-Your-Favourite-Artist/Resources/combined.jpg)
 
 ### Team member 1 : Ayesha Binte Mostofa (1805062)
 ### Team member 2 : Md. Mahmudul Hasan   (1805084)
