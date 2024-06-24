@@ -36,4 +36,4 @@ Paintings by Monet (Giverny in springtime), Pissarro (Chestnut trees, Louvecienn
     
 ---
 
-For details, please read our project [Report](https://github.com/ayeshathoi/Image-Style-Transfer-using-CycleGAN-Resnet50-VGG16---Paint-like-Your-Favourite-Artist/blob/main/Project_Report_Image_Style_Transfer.pdf)
+For details, please read our [Project Report](https://github.com/ayeshathoi/Image-Style-Transfer-using-CycleGAN-Resnet50-VGG16---Paint-like-Your-Favourite-Artist/blob/main/Project_Report_Image_Style_Transfer.pdf)
