@@ -22,7 +22,7 @@ Paintings by Monet (Giverny in springtime), Pissarro (Chestnut trees, Louvecienn
 
 
 ### Evaluation Metrics 
-  - FID : réchet Inception Distance (FID) compares the feature representations of images extracted from a pre-trained deep convolutional neural network, typically Inception-v3, trained on a large dataset.
+  - FID : Fréchet Inception Distance (FID) compares the feature representations of images extracted from a pre-trained deep convolutional neural network, typically Inception-v3, trained on a large dataset.
   - PSNR : PSNR metric is expressed in decibels (dB) and is computed using the mean squared error (MSE) between the original and reconstructed images.
   - SSIM : SSIM operates by comparing local patterns of pixel intensities in the reference and distorted images.
 
